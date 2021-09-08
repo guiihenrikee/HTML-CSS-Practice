@@ -1,0 +1,144 @@
+body {
+  background-color: #171010;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  color: #40514E;
+  line-height: 2;
+}
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-color: #79B4B7;
+  border-width: 5px
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {;
+    background-color: white;
+    padding-bottom: 50px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 30px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+  margin-bottom: 50px;
+}
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+.mountain-img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.profile-picture {
+  margin-top: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.python-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.suporte-tecnico {
+  width: 17%;
+  float: right;
+  margin-left: 30px;
+}
+.Contact-me {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   padding: 15px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Contact-me:hover {
+   background: #EAF6F6;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+.c2021 {
+  color: white;
+  padding-bottom: 15px;
+  font-size: 0.75rem
+}
+.linkedin-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: large;
+}
+.linkedin-link:hover {
+  color: #EAF6F6;
+}
+.github-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-left: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: large;
+}
+.github-link:hover {
+  color: #EAF6F6;
+}
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  color: #11999E;
+}
+a:hover {
+  color: black;
+}
+.sup-analyst-title {
+  margin-left: 528px;
+}
