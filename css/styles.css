@@ -3,7 +3,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
 }
 h1 {
   color: #66BFBF;
@@ -95,7 +94,6 @@ hr {
    cursor: pointer;
    text-align: center;
 }
-
 .Contact-me:hover {
    background: #EAF6F6;
    -webkit-border-radius: 10px;
