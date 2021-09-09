@@ -5,7 +5,7 @@ body {
   font-family: 'Merriweather', serif;
 }
 h1 {
-  color: #171010;
+  color: #DBCBBD;
   font-size: 5.625rem;
   line-height: 2;
   margin: 50px auto 0 auto;
@@ -21,6 +21,7 @@ h3 {
   color: #171010;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+  font-size: 1.5rem;
 }
 p {
   color: black;
@@ -37,15 +38,17 @@ hr {
   background-color: #362222;
   position: relative;
   padding-top: 100px;
-
 }
 .middle-container {;
     background-color: white;
     padding-bottom: 50px;
 }
 .bottom-container {
-    background-color: #2B2B2B;
+    background-color: #362222;
     padding-top: 30px;
+}
+.subtitle {
+  color: #DBCBBD;
 }
 .bottom-cloud {
   position: absolute;
@@ -90,15 +93,14 @@ hr {
    border-radius: 10px;
    color: #FFFFFF;
    padding: 15px;
-   background-color: #171010;
+   background-color: #362222;
    text-decoration: none;
    display: inline-block;
    cursor: pointer;
    text-align: center;
 }
-
 .Contact-me:hover {
-   background: #362222;
+   background: #2B2B2B;
    -webkit-border-radius: 10px;
    -moz-border-radius: 10px;
    border-radius: 10px;
@@ -141,5 +143,5 @@ a:hover {
   color: grey;
 }
 .sup-analyst-title {
-  margin-left: 600px;
+  text-align: right;
 }
